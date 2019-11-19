@@ -1,0 +1,14 @@
+host1.example.com
+host2.example.com
+
+[test]
+servera.lab.example.com
+serverb.lab.example.com
+
+[prod]
+serverc.lab.example.com
+serverd.lab.example.com
+
+[dev]
+servere.lab.example.com
+serverf.lab.example.com
